@@ -5,6 +5,7 @@
   "icons": {
     "128": "icon.png"
   },
+  "description": "Keep your web pages from getting bogged down!",
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
